@@ -1,0 +1,85 @@
+body
+{
+    font-family: 'Montserrat', sans-serif;
+    background-color:#F5F7FA;
+   
+}
+.main-conteiner
+{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200 px;
+    background-color: #FFFFFF;
+    margin: 40 px auto;
+
+}
+.main-content-section
+{
+
+}
+.about-me-profession
+{
+    
+
+}
+.about-me-section
+{
+
+    
+
+}
+.my-prijects-section
+{
+    
+   
+}
+.my-work-experiense
+{
+  
+ 
+}
+.My-Manager-RogaKopyta
+{
+  
+
+
+
+}
+
+.my-education
+{
+    
+   
+    
+    
+    
+}
+.sidebar
+{
+    background-color:#1E2939 ;
+    width:370px ;
+    padding-top: 40px;
+    
+}
+.sidebar-sections
+{
+    margin: 50px 40px;
+}
+h3
+{
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 27px;
+color: ;
+}
+.contact-section
+{
+
+}
+.contact-section-span
+.telefone
+{
+    
+}
